@@ -10,7 +10,7 @@ body {
     background-color: black;
 }
 
-.main {
+.main{
     background-image: url("./Assets/bg.jpg");
     background-position: center center;
     background-size: max(1000px, 100vw);
